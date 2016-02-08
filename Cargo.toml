@@ -1,0 +1,9 @@
+[package]
+name = "vault_to_env"
+version = "0.0.1"
+authors = ["Derek Kastner <dkastner@gmail.com>"]
+
+[dependencies]
+hyper  = "0.6.16"
+libc   = "0.2"
+regex  = "0.1.48"
